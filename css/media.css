@@ -1,0 +1,213 @@
+@media(max-width: 1192px){
+    .hoverimg a {
+}.hoverimg img {
+    min-height: 220px;
+    max-height: 220px;
+}.slick-dots li.slick-active button:before {
+    opacity: 1 !important;
+    color: #fcbc65 !important;
+}.slick-dots li button:before{
+    font-size: 50px !important;
+    color: #fcbc65 !important;
+}.slick-dots li.slick-active button:before {
+    opacity: 1;
+}.social_section .socialpart {
+    padding: 20px;
+}.socialicon a {
+    font-size: 40px;
+}
+}
+
+@media(max-width: 992px){
+.homeimg {
+    display: none;
+}.homepart {
+    padding: 150px 70px 115px;
+    text-align: center;
+}.texting h2 {
+    line-height: initial;
+    font-size: 60px;
+    margin-bottom: 30px;
+}.texting h2 span {
+    display: initial;
+}.aboutme,.project_section,.reviews_section,.social_section, footer{
+    padding: 50px;
+}.aboutskills p {
+    margin: 25px 0 30px;
+}.aboutintro p,.aboutme h1 {
+    margin-bottom: 30px;
+}.aboutskills h2{
+    margin: 0;
+    line-height: 35px;
+}.social_section .socialpart {
+    padding: 30px;
+    margin-bottom: 15px;
+}.navbar-toggler-icon {
+    width: 40px !important;
+    height: 30px !important;
+}.navbar-toggler {
+    line-height: 1 !important;
+    padding: 0 !important;
+}.navbar-light .navbar-toggler-icon {
+    background-color: #ffff !important;
+}
+}
+
+@media(max-width: 850px){
+.rightimg {
+    display: none;
+}.toptext h2 {
+    font-size: 20px;
+}.toptext h4 {
+    font-size: 14px;
+}
+}
+
+@media(max-width: 767px){
+    .aboutintro img {
+    margin-bottom: 25px;
+    width: 250px;
+    height: 260px;
+}.aboutskills p {
+    margin: 20px 0 25px;
+}.aboutme h1,.aboutskills h2 {
+    font-size: 30px;
+    text-align: start;
+}.project_section h1,.reviews_section h1,.social_section h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}.heading span {
+    font-size: 55px;
+}.project_section ul li button {
+    padding: 6px 16px 6px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}footer{
+    text-align: center;
+}footer .knock h4 {
+    font-size: 30px;
+    margin: 15px 0 20px;
+}
+footer .chat {
+    text-align: center;
+}
+}
+
+@media(max-width: 575px){
+    .progress-wrap {
+    right: 15px !important;
+    bottom: 30px !important;
+}
+    .navbar-nav li:last-child a {
+    background-color: #fcbc63;
+    border: 1px solid #fcbc63;
+    color: #24273b !important;
+    padding: 7px 20px 8px !important;
+}
+    .aboutintro {
+    /* text-align: center; */
+}
+    .aboutintro img {
+    width: 200px;
+    height: 210px;
+    margin-bottom: 20px;
+}
+    footer p {
+    margin-top: 20px;
+}
+    .navbar-toggler-icon {
+    width: 30px !important;
+    height: 25px !important;
+}
+    .progress-wrap {
+    background-color: #24273b;
+}
+    .navbar-nav {
+    text-align: center;
+}.navbar{
+    border-bottom: 1px solid #1a1d2b;
+}
+    .aboutme,.project_section, .reviews_section,.social_section, footer  {
+    padding: 30px 20px;
+}
+    .texting h1 {
+    font-size: 24px;
+}.aboutintro p {
+    font-size: 14px;
+    text-align: start;
+}
+.texting h2 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}.texting h4 {
+    font-size: 20px;
+}.navbar {
+    padding-left: 20px;
+    padding-right: 20px;
+}.homepart {
+    padding: 150px 20px 115px;
+    text-align: center;
+}.aboutintro p, .aboutme h1 {
+    margin-bottom: 20px;
+    line-height: 24px;
+}.aboutme h1, .aboutskills h2,.project_section h1,.project_section h1,.reviews_section h1,.social_section h1 {
+    font-size: 22px;
+    text-align: center;
+}.project_section h1, .reviews_section h1 {
+    margin-bottom: 25px;
+}
+.aboutskills p {
+    font-size: 14px;
+    margin: 15px 0 20px;
+    line-height: 24px;
+}.aboutskills h4 {
+    font-size: 12px;
+}.aboutskills a {
+    padding: 8px 25px 9px !important;
+    font-size: 14px;
+}.aboutskills a:hover {
+    background-color: #fcbc63;
+    color: #1f2335 !important;
+    border: 1px solid #fcbc63;
+}.heading span {
+    display: none;
+}.project_section ul li button {
+    margin-bottom: 8px;
+    font-size: 13px;
+    border: 2px solid #ffffff;
+}.project_section ul {
+    margin-bottom: 20px;
+}.hoverimg a {
+    font-size: 14px;
+    opacity: 1;
+}.hoverimg a{
+    width: 155px;
+}.hoverimg::after{
+    display: none;
+}.hoverimg a i {
+    font-size: 12px;
+}.toptext h2 {
+    font-size: 16px;
+}.review p {
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+}.review {
+    padding: 20px;
+    margin-bottom: 0;
+}.socialtxt h2 {
+    font-size: 25px;
+}.social_section h1{
+    line-height: 30px;
+}footer .knock h4 {
+    font-size: 25px;
+}footer .thanks h2 {
+    font-size: 20px;
+}footer .chat a {
+    background-color: #fcbc65;
+    border: 1px solid #fcbc65;
+    color: #24273b !important;
+    padding: 8px 20px 9px !important;
+    font-size: 14px;
+}
+}
